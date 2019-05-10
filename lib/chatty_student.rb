@@ -4,6 +4,6 @@ class ChattyStudent < Student
 
   def hello
     super
-      9.do.each {puts "Pick me!"}
+      9.times {puts "Pick me!"}
   end
 end
