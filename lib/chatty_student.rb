@@ -4,6 +4,7 @@ class ChattyStudent < Student
 
   def hello
     super
-      9.times {puts "Pick me!"}
+      puts "Pick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!\nPick me!
+\nPick me!\nPick me!\n"
   end
 end
